@@ -1,1 +1,0 @@
-console.log("Hello, world! Good Morning, World!")
