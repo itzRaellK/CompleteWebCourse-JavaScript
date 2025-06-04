@@ -14,3 +14,6 @@ var hobbies = ["reading", "gaming", "coding"] // Array
 let currentAge = 29                           // Integer
 let isEmployed = true                         // Boolean
 let favoriteColors = ["blue", "green", "red"] // Array
+
+// Understanding const, which is used for constants that should not change
+const BIRTHYEAR = 1995                        // Normally, constant names are in uppercase
